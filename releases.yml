@@ -22,8 +22,6 @@ releases:
       permits:
         - code: CONFLICTING_INHERITED_DEPENDENCY
           component: ose-agent-installer-api-server
-        - code: MISMATCHED_NETWORK_MODE
-          component: ose-machine-os-images
       rhcos:
         rhel-coreos:
           images:
